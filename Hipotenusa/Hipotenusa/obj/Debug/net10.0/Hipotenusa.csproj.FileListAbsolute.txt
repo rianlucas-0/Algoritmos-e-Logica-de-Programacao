@@ -1,0 +1,14 @@
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\Hipotenusa\Hipotenusa\bin\Debug\net10.0\Hipotenusa.exe
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\Hipotenusa\Hipotenusa\bin\Debug\net10.0\Hipotenusa.deps.json
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\Hipotenusa\Hipotenusa\bin\Debug\net10.0\Hipotenusa.runtimeconfig.json
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\Hipotenusa\Hipotenusa\bin\Debug\net10.0\Hipotenusa.dll
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\Hipotenusa\Hipotenusa\bin\Debug\net10.0\Hipotenusa.pdb
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\Hipotenusa\Hipotenusa\obj\Debug\net10.0\Hipotenusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\Hipotenusa\Hipotenusa\obj\Debug\net10.0\Hipotenusa.AssemblyInfoInputs.cache
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\Hipotenusa\Hipotenusa\obj\Debug\net10.0\Hipotenusa.AssemblyInfo.cs
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\Hipotenusa\Hipotenusa\obj\Debug\net10.0\Hipotenusa.csproj.CoreCompileInputs.cache
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\Hipotenusa\Hipotenusa\obj\Debug\net10.0\Hipotenusa.dll
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\Hipotenusa\Hipotenusa\obj\Debug\net10.0\refint\Hipotenusa.dll
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\Hipotenusa\Hipotenusa\obj\Debug\net10.0\Hipotenusa.pdb
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\Hipotenusa\Hipotenusa\obj\Debug\net10.0\Hipotenusa.genruntimeconfig.cache
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\Hipotenusa\Hipotenusa\obj\Debug\net10.0\ref\Hipotenusa.dll

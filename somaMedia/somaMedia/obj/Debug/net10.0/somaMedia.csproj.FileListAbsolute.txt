@@ -1,0 +1,14 @@
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\somaMedia\somaMedia\bin\Debug\net10.0\somaMedia.exe
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\somaMedia\somaMedia\bin\Debug\net10.0\somaMedia.deps.json
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\somaMedia\somaMedia\bin\Debug\net10.0\somaMedia.runtimeconfig.json
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\somaMedia\somaMedia\bin\Debug\net10.0\somaMedia.dll
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\somaMedia\somaMedia\bin\Debug\net10.0\somaMedia.pdb
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\somaMedia\somaMedia\obj\Debug\net10.0\somaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\somaMedia\somaMedia\obj\Debug\net10.0\somaMedia.AssemblyInfoInputs.cache
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\somaMedia\somaMedia\obj\Debug\net10.0\somaMedia.AssemblyInfo.cs
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\somaMedia\somaMedia\obj\Debug\net10.0\somaMedia.csproj.CoreCompileInputs.cache
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\somaMedia\somaMedia\obj\Debug\net10.0\somaMedia.dll
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\somaMedia\somaMedia\obj\Debug\net10.0\refint\somaMedia.dll
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\somaMedia\somaMedia\obj\Debug\net10.0\somaMedia.pdb
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\somaMedia\somaMedia\obj\Debug\net10.0\somaMedia.genruntimeconfig.cache
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\somaMedia\somaMedia\obj\Debug\net10.0\ref\somaMedia.dll

@@ -1,0 +1,14 @@
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\INSS\INSS\bin\Debug\net10.0\INSS.exe
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\INSS\INSS\bin\Debug\net10.0\INSS.deps.json
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\INSS\INSS\bin\Debug\net10.0\INSS.runtimeconfig.json
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\INSS\INSS\bin\Debug\net10.0\INSS.dll
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\INSS\INSS\bin\Debug\net10.0\INSS.pdb
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\INSS\INSS\obj\Debug\net10.0\INSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\INSS\INSS\obj\Debug\net10.0\INSS.AssemblyInfoInputs.cache
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\INSS\INSS\obj\Debug\net10.0\INSS.AssemblyInfo.cs
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\INSS\INSS\obj\Debug\net10.0\INSS.csproj.CoreCompileInputs.cache
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\INSS\INSS\obj\Debug\net10.0\INSS.dll
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\INSS\INSS\obj\Debug\net10.0\refint\INSS.dll
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\INSS\INSS\obj\Debug\net10.0\INSS.pdb
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\INSS\INSS\obj\Debug\net10.0\INSS.genruntimeconfig.cache
+C:\Users\Rian Lucas\Downloads\Faculdade\1° Semestre\Microfundamento - Algoritmos e abstração de dados\INSS\INSS\obj\Debug\net10.0\ref\INSS.dll
